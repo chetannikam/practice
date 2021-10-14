@@ -1,0 +1,8 @@
+Homework
+ ---- Revising what has been taught.
+ ---- Cloning a repository
+ ---- Creating a new repository and pushing code to it.
+ ---- Figure out
+ -- How to create a branch?
+ -- How to switch between different branches?
+ -- How to add files to a branch?9:16 pm 
