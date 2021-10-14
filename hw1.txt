@@ -7,4 +7,4 @@ Homework
  -- How to switch between different branches?
  -- How to add files to a branch?9:16 pm 
  
-Before saturday I need to do this  and learn git
+Before saturday I need to do this  and learn git and learn data structure as well slowly slowly like tortoise
